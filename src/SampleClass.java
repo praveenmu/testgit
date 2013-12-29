@@ -4,4 +4,9 @@ public class SampleClass {
 		int c = a + b;
 		System.out.println(c);
 	}
+	
+	public void testGitEdit(int y)
+	{
+		System.out.println(y);
+	}
 }
