@@ -10,6 +10,7 @@ public class Solution {
 	{
 		System.out.println("test exc throws");
 		System.out.println("test update1");
+		System.out.println("test update2");
 		throw new Error();
 	
 	}
