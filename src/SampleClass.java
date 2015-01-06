@@ -1,7 +1,8 @@
 public class SampleClass {
-
-	public void add(int a, int b) {
+	public int add(int a, int b) {
 		int c = a + b;
+
+		return c;
 		System.out.println(c + "test");
 	}
 	
